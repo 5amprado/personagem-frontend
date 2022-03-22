@@ -1,5 +1,8 @@
 # FullStack App using SpringBoot and ReactJS!
 
+App FullStack de Cadastro de Personagens com nome, sobrenome e ocupação.
+Usarei como modelo para projetos futuros.
+
 ## BackEnd
 [backend](https://github.com/Sam0Prado/personagem-backend)
 
